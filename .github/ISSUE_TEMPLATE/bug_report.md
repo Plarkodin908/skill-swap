@@ -1,9 +1,9 @@
 ---
 name: Bug report
 about: report an issue to help us improve
-title: ''
-labels: ''
-assignees: ''
+title: 'BUG REPORT '
+labels: '🔻'
+assignees:''
 
 ---
 
@@ -12,9 +12,9 @@ A clear and concise description of what the bug is.
 
 **To Reproduce**
 Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
+1. Go to 'upoer left'
+2. Click on 'menu'
+3. Scroll down to 'reports'
 4. See error
 
 **Expected behavior**
